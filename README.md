@@ -25,4 +25,4 @@ Click [here](https://github.com/Apurv-Deshpande/Flash.git) then download the .zi
 Make sure your mongodb db is running.
 
 #### Project will run on:
-Open the browser go to localhost:3000
+Open the browser go to localhost:3030
